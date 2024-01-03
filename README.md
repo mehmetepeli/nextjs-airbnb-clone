@@ -2,6 +2,7 @@
 ## App Environment
 - NextJS
 - ReactJS
+- TypeScript
 - Prisma
 - MongoDB
 - Client & Admin API
